@@ -1,7 +1,8 @@
+*{background-color: white}
+
 img {
   width: 162px;
 }
-
 #make-me-a-row {
   display: flex;
   align-items: flex-start;
